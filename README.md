@@ -18,9 +18,9 @@ STEP 2. Open the project solution in visual studio 2022
 
 STEP 3. Run dotnet restore in the console to restores the packages
 
-STEP 4. Run the project and a swagger Documentation show will come up in the browser
+STEP 4. Run the project and a swagger Documentation will come up in the browser
 
-STEP 5. Open Postman and make an POST request on {$endpointURL}​/api​/OpeningHours
+STEP 5. Open Postman and make an Http POST request on {$endpointURL}​/api​/OpeningHours
 Add the following JSON in the request body
 
 {
