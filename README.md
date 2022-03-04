@@ -1,9 +1,9 @@
 # Accelerex
-#Part 2:
+# Part 2:
 Tell us what do you think about the data format. Is the current JSON structure the best 
 way to store that kind of data or can you come up with a better version?
 
-#Answer
+# Answer
 JSON is a common format for storing and exchanging data on the web, and it all relies on what we want to achieve. 
 It's also becoming more popular as a database migration format from modern apps. 
 JSON is ideal for storing data that will be consumed by the entity that created it. 
